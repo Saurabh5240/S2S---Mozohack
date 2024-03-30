@@ -39,7 +39,7 @@ A player starts with some basic amount in his account ($500) and has to jump thr
 * Unity2D(Core)
 * Universal render Pipeline (URP)
 * WebGL 
-* HTML Build
+* HTML and CSS Build
 * Canva
 
 ## License
