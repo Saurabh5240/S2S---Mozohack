@@ -41,6 +41,8 @@ A player starts with some basic amount in his account ($500) and has to jump thr
 * WebGL 
 * HTML and CSS Build
 * Canva
+* WordPress
+* Google Slides
 
 ## License
 This project is licensed under the MIT License.
