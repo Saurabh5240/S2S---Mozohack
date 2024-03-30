@@ -17,7 +17,7 @@ The game is deployed using *ITCH.IO*
 
 Play At - https://chenzipandeyy.itch.io/stairstostock
 ## Why Webpage ?
-Using the webpage player can learn about the stocks and technical analysis and implement their learning through the game and understand it better as visual pictures remains in the mind for longer
+Using the webpage player can learn about the stocks and technical analysis and implement their learning through the game and understand it better as visual pictures remain in the mind for longer.
 
 ## How to play 
 A player starts with some basic amount in his account ($500) and has to jump through the candlesticks, while jumping player will collect the coins to add up profit to the account and when they reach to decision point (The candlestick where the prediction pop up will appear) they will have to predict the pattern will go up or down. If the player predicts correctly, money will be added to their account, and profit increases but if they predict wrong a knowledge card will appear that will tell about the pattern and the game goes on.
