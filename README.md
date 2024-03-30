@@ -1,7 +1,10 @@
 # S2S---Mozohack
 ## A GAME WHICH WILL BE STAIRS TO THE STOCK MARKET
-### Webpage Deployment link :- https://sites.google.com/view/s2sbreach/
+## Webpage Deployment link :- https://sites.google.com/view/s2sbreach/
+## Game Link
+The game is deployed using *ITCH.IO*
 
+Play At - https://chenzipandeyy.itch.io/stairstostock
 ## Video :-
 
 https://github.com/Saurabh5240/S2S---Mozohack/assets/117516567/58d158c6-1de7-46ae-8055-13baf8be82f7
@@ -12,10 +15,7 @@ https://github.com/Saurabh5240/S2S---Mozohack/assets/117516567/1b58144d-a459-44d
 ![WhatsApp Image 2024-03-29 at 2 33 14 PM (1)](https://github.com/Saurabh5240/S2S---Mozohack/assets/117516567/32bc3926-83ee-489d-8abd-e3108179386a)
 ## Motive Behind The Game
 Students and young adults don't know a lot about stock and trading, there is no proper source they can rely on to learn stock market and technical analysis which they should learn in the earlier years of their career. This engaging game aims to teach them some technical analysis in fun and interactive way.
-## Game Link
-The game is deployed using *ITCH.IO*
 
-Play At - https://chenzipandeyy.itch.io/stairstostock
 ## Why Webpage ?
 Using the webpage player can learn about the stocks and technical analysis and implement their learning through the game and understand it better as visual pictures remain in the mind for longer.
 
