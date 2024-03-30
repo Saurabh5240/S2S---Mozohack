@@ -1,6 +1,6 @@
 # S2S---Mozohack
 ## A GAME WHICH WILL BE STAIRS TO THE STOCK MARKET
-## Webpage Deployment link :- https://sites.google.com/view/s2sbreach/
+Webpage Deployment link :- https://sites.google.com/view/s2sbreach/
 ## Game Link
 The game is deployed using *ITCH.IO*
 
